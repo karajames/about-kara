@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>About Kara</title>
+
+		<link href='https://fonts.googleapis.com/css?family=Over+the+Rainbow' rel='stylesheet' type='text/css'>
+
+		<link href='https://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+
+	<body>
+
+		<div class="container">
+			<!-- START HERE --> 
+
+		<h1>About Kara</h1>
+		<h2>...Not in Kansas Anymore...</h2>
+
+		<p>I'm a born and bred Kansan but after 23 years in the beautiful Flint Hills, I caught the wanderlust bug and needed to get out.</p>
+
+		<p>I moved to Austin and explored the area to see what Texas was all about. Definitely a fun city and everyone should at least visit but I decided it wasn't for me and was ready to move on to somewhere else!</p>
+
+		<p>Now I'm living in Denver and loving it! My dog is certainly enjoying all the fun outdoor activities as well. You're probably wondering if I named her Toto but no, it's Maisy! She's never seen snow so that'll be a "we're not in Texas anymore" moment for her, I'm sure.</p> 
+
+		<center><h3>Not quite <a href="https://www.youtube.com/watch?v=nIaN9Koa9oM" target="_blank">over the rainbow</a>, but close enough!</h3></center>
+
+		<center><iframe width="350" height="263" src="https://www.youtube.com/embed/nIaN9Koa9oM" frameborder="0" allowfullscreen></iframe></center>
+		
+					<!-- END HERE --> 
+		</div><!-- .container --> 
+		<div class="socialmedia">
+			<!--Start here-->
+
+		<p> Follow my adventure on Linkedin and Facebook!
+		<a href="https://www.linkedin.com/pub/kara-james/80/88/b39" target="_blank"><img src="images/linkedin.png" alt="Linkedin"></a>
+
+		<a href="https://www.facebook.com/kara.james.92" target="_blank"><img src="images/facebook.png" alt="Facebook"></a></p>
+
+		<!--End here -->
+	</div><!--socialmedia -->
+
+	</body>
+</html>
